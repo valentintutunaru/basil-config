@@ -1,7 +1,7 @@
 build:
   version: "2.0"
-accounts:
-  message: "Welcome to Basil loans related qa-2 APIs "
+loans:
+  message: "Welcome to Basil loans related qa APIs "
   contactDetails:
     name: "T Valentin - qa lead"
     email: "valentin@basil.com"
