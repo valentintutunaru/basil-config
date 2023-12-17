@@ -1,0 +1,10 @@
+build:
+  version: "2.0"
+accounts:
+  message: "Welcome to Basil accounts related qa APIs "
+  contactDetails:
+    name: "T Valentin - qa lead"
+    email: "valentin@basil.com"
+  onCallSupport:
+    - (555) 555-1234
+    - (555) 523-1345
