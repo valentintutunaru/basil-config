@@ -3,7 +3,7 @@ build:
 accounts:
   message: "Welcome to Basil accounts related prod API"
   contactDetails:
-    name: "T Valentin - prod Lead"
+    name: "T Valentin - prod Lead2"
     email: "{cipher}569b817cd8428d8ded5fe82a4861222dc219cfdaff843acf2de88c7e9f262dc6601a8f08e17555c5420ffa0269ffea82"
   onCallSupport:
     - (555) 555-1234
