@@ -1,7 +1,7 @@
 build:
   version: "3.0"
 loans:
-  message: "Welcome to Basil loans related local APIs "
+  message: "Welcome to Basil loans related docker APIs "
   contactDetails:
     name: "T Valentin - Developer"
     email: "valentin@basil.com"
