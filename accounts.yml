@@ -1,7 +1,7 @@
 build:
   version: "3.0"
 accounts:
-  message: "Welcome to Basil accounts related local APIs "
+  message: "Welcome to Basil accounts related docker APIs "
   contactDetails:
     name: "T Valentin - Developer"
     email: "valentin@basil.com"
